@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE sqlMapConfig PUBLIC "-//iBATIS.com//DTD SQL Map Config 2.0//EN" "http://www.ibatis.com/dtd/sql-map-config-2.dtd">
+<sqlMapConfig>
+	 <settings  
+      cacheModelsEnabled ="true"       
+      enhancementEnabled ="true"       
+      lazyLoadingEnabled ="true"       
+      errorTracingEnabled ="true"       
+      maxRequests ="32"            
+      maxSessions ="10"            
+      maxTransactions ="5"           
+      useStatementNamespaces ="true"     
+      /> 
+      <sqlMap resource="/ibatis/cms/login_sql.xml"/> 
+      <sqlMap resource="/ibatis/cms/log_sql.xml"/>
+      <sqlMap resource="/ibatis/cms/menu_sql.xml"/>
+      <sqlMap resource="/ibatis/cms/map_sql.xml"/>
+      <sqlMap resource="/ibatis/cms/craft_sql.xml"/>
+      <sqlMap resource="/ibatis/cms/favor_sql.xml"/>
+      <sqlMap resource="/ibatis/cms/travel_sql.xml"/>
+      <sqlMap resource="/ibatis/cms/trend_sql.xml"/>
+      <sqlMap resource="/ibatis/cms/calendar_sql.xml"/>
+      <sqlMap resource="/ibatis/cms/activity_sql.xml"/>
+      <sqlMap resource="/ibatis/cms/buy_sql.xml"/>
+      <sqlMap resource="/ibatis/cms/market_sql.xml"/>
+      <sqlMap resource="/ibatis/cms/agritainment_sql.xml"/>   
+</sqlMapConfig>

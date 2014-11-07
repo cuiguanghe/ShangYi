@@ -1,0 +1,34 @@
+10
+
+dir
+24698
+http://192.168.0.43:81/svn/infohold/XiaoFuGIS/Project/GIS_QB/Server/fPortal/CityBank/iPanShi/Trunk/src/main/resources/ibatis
+http://192.168.0.43:81/svn/infohold
+
+
+
+2014-11-04T03:39:54.604541Z
+24695
+leijingjing
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+2bd79b87-8d13-4107-a517-4dc105d092d6
+
+cms
+dir
+
+portal
+dir
+

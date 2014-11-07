@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/infohold/!svn/ver/24642/XiaoFuGIS/Project/GIS_QB/Server/fPortal/CityBank/iPanShi/Trunk/src/main/resources/config
+END
+jdbc.properties
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/infohold/!svn/ver/24561/XiaoFuGIS/Project/GIS_QB/Server/fPortal/CityBank/iPanShi/Trunk/src/main/resources/config/jdbc.properties
+END
+log4j.properties
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/infohold/!svn/ver/24356/XiaoFuGIS/Project/GIS_QB/Server/fPortal/CityBank/iPanShi/Trunk/src/main/resources/config/log4j.properties
+END
+sqlMapConfig.xml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/infohold/!svn/ver/24642/XiaoFuGIS/Project/GIS_QB/Server/fPortal/CityBank/iPanShi/Trunk/src/main/resources/config/sqlMapConfig.xml
+END
+beans.xml
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/svn/infohold/!svn/ver/24356/XiaoFuGIS/Project/GIS_QB/Server/fPortal/CityBank/iPanShi/Trunk/src/main/resources/config/beans.xml
+END
+spring-servlet.xml
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/infohold/!svn/ver/24625/XiaoFuGIS/Project/GIS_QB/Server/fPortal/CityBank/iPanShi/Trunk/src/main/resources/config/spring-servlet.xml
+END
